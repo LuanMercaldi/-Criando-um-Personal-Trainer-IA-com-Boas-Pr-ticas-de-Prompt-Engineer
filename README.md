@@ -179,4 +179,25 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.dio.me/users/luanwp">
+    DIO</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
 
