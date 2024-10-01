@@ -28,7 +28,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [💡 Regras de negócio](#-Como-Funciona)
 - [🔄 Como Atualizar as Preferências](#-Como-Atualizar-as-Preferências)
 - [📊 Benefícios](#-Benefícios)
-- [📸 Exemplos Visuais](#-Exemplo-Visuais)
+- [📸 Exemplos Visuais](#-Exemplos-Visuais)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
