@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.dio.me/users/luanwp"><img src="https://img.shields.io/badge/DIO-Project-FED564?logo=youtube" alt="DIO - Project"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-FED564?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
+<a href="https://www.dio.me/users/luanwp" title="Curriculum"><img src="https://img.shields.io/badge/DIO-Curriculum-FED564"></a>
+<a href="https://www.linkedin.com/in/luan-mercaldi-88080890/" title="Profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-FED564?"></a>
 <a href="https://aws.amazon.com/" title="Powered by AWS">
-  <img src="https://img.shields.io/badge/Powered%20by-AWS-FED564?logo=icloud&logoColor=white" alt="Powered by AWS">
+  <img src="https://img.shields.io/badge/Powered%20by-ChatGPT-FED564?">
 </a>
 </p>
 
