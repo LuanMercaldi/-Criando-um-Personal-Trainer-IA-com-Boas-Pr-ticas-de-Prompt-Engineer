@@ -157,6 +157,19 @@ Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](#)*
 
 ---
 
+## 📸 Exemplo Visual
+
+Aqui está um exemplo de como você verá as perguntas na interface do bot:
+
+![Exemplo de Pergunta - Biotipo Corporal](https://via.placeholder.com/300x150)  
+*Na tela acima, você pode escolher o seu biotipo corporal.*
+
+---
+
+Esperamos que você aproveite o máximo desse bot e que ele te ajude a alcançar seus objetivos de treino! Se precisar de alguma coisa, estamos por aqui. 😄👊
+
+---
+
 ## 📖 Material de Apoio
 
 Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
@@ -166,4 +179,4 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+
