@@ -160,7 +160,7 @@ Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](#)*
 
 ---
 
-## 📸 Exemplo Visual
+## 📸 Exemplos Visuais
 
 Aqui está um exemplo de como você verá as perguntas na interface do bot:
 
