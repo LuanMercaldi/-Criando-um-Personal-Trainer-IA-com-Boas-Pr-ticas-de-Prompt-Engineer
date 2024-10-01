@@ -21,7 +21,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 ## 📋 Índice
 
 - [📋 Índice](#-índice)
-- [🚀 O que o Bot Faz?](#-O-que-o-Bot-Faz?)
+- [🚀 O que o Bot Faz?](#-O-que-o-Bot-Faz)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
