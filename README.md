@@ -30,7 +30,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [📊 Benefícios](#-Benefícios)
 - [📸 Exemplos Visuais](#-Exemplos-Visuais)
 - [📖 Material de Apoio](#-material-de-apoio)
-- [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
+- [👨‍💻 Expert](#Expert)
 
 ---
 
