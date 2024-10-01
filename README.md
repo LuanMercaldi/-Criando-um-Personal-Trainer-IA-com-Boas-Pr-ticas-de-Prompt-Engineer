@@ -79,6 +79,14 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
     <td><strong>Endomorfo</strong></td>
     <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
   </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
+    </td>
+    <td><strong>Não sei, me ajude!</strong></td>
+    <td>Não tem problema, dá uma olhada neste vídeo [aqui](https://www.youtube.com/watch?v=UTHHEOqJIaU) que vai te ajudar a entender melhor. 🎥
+</td>
+  </tr>
 </table>
 
 > **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
