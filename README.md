@@ -123,12 +123,37 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
 
 ---
 
-## 🛠️ Regras de negócio
+## 💡 Como Funciona?
 
-1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+1. **Você Responde Algumas Perguntas:**
+   - O bot vai perguntar sobre o seu tipo de corpo, o tipo de treino que você prefere e quantos dias você tem disponível para treinar.
+   - Exemplo de perguntas:
+     - Qual é o seu biotipo corporal?
+     - Você prefere treinar com pesos livres, máquinas, ou prefere cardio?
+     - Quantos dias por semana você pode treinar?
+
+2. **O Bot Gera um Treino Personalizado:**
+   - Com base nas suas respostas, o bot monta um plano de treino, com dicas sobre séries, repetições e intensidade. Tudo feito sob medida! 🎯
+
+3. **Você Treina e Acompanha seu Progresso:**
+   - Agora é só seguir o plano, marcar os dias de treino, e ver os resultados! 🔥
+
+---
+
+## 🔄 Como Atualizar as Preferências
+
+Se você quiser mudar o tipo de treino ou a quantidade de dias disponíveis, é só resetar o bot e responder novamente às perguntas. Ele ajusta tudo rapidinho para você. 😉
+
+Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](#)**. Se quiser alterar a base, basta **baixar o arquivo de texto**, fazer as mudanças necessárias e subir o arquivo atualizado no ChatGPT. Pronto, seu bot estará com as novas informações personalizadas! 🛠️
+
+
+---
+
+## 📊 Benefícios
+
+- **Personalização Total**: Seu treino vai ser 100% baseado nas suas respostas.
+- **Simples e Rápido**: Sem complicações, você define tudo em poucos minutos.
+- **Adapta-se ao seu Tempo**: Quer treinar 1, 3, 5 dias? O bot se ajusta à sua agenda.
 
 ---
 
