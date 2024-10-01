@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.dio.me/users/luanwp" title="Curriculum"><img src="https://img.shields.io/badge/DIO-Curriculum-FED564"></a>
 <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/" title="Profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-FED564?"></a>
-<a href="https://aws.amazon.com/" title="Powered by AWS">
+<a href="https://chatgpt.com/" title="Powered by ChatGpt">
   <img src="https://img.shields.io/badge/Powered%20by-ChatGPT-FED564?">
 </a>
 </p>
