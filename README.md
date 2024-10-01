@@ -11,15 +11,17 @@
 </p>
 
 <p align="center">
-  <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
-O projeto deve ser feito utilizando as boas práticas de prompt engineer.
+  <h3 align="center">🤖 Personal Trainer Virtual</h3>
+    
+Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte de um **desafio de Prompt Engineer** e vai ajudar você a criar treinos personalizados com base nas suas respostas a algumas perguntas rápidas e simples. Vamos nessa? 💪
 </p>
+
+---
 
 ## 📋 Índice
 
 - [📋 Índice](#-índice)
-- [📝 Introdução](#-introdução)
+- [📝 Introdução](#-O-que-o-Bot-Faz?)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
@@ -29,9 +31,20 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 
 ---
 
-## 📝 Introdução
+## 🚀 O que o Bot Faz?
 
-Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana e o tipo de exercício preferido, e o assistente gerará um plano de treino ideal com base nessas informações.
+O **Personal Trainer Virtual** gera um plano de treino totalmente customizado para você, considerando seu biotipo, preferências de exercício e quantos dias por semana você pode treinar. Tudo isso em poucos passos! 🏋️‍♂️
+
+Este projeto tem como objetivo criar um **prompt que auxilia a montar o treino ideal** para cada combinação de fatores, como:
+
+- **Biotipo Corporal**: Ectomorfo, Mesomorfo, Endomorfo, ou indefinido.
+- **Disponibilidade de Tempo**: Quantos dias por semana você pode treinar.
+- **Tipo de Exercícios Preferidos**: Funcional, Maquinário, Peso Livre, Cardio, HIIT.
+
+O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário, utilizando as **melhores práticas de Prompt Engineering**.
+
+
+Combinando tecnologia e conhecimento em fitness, esse bot vai facilitar a criação do **treino ideal** para cada usuário, ajudando-o a atingir seus objetivos de forma eficaz e personalizada.
 
 ---
 
