@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="300px" src=".github/assets/logo_2.png">
+    <img width="300px" src="![logo_2](https://github.com/user-attachments/assets/961eb394-4fed-4d68-a717-dc280f46e464)
+">
 </p>
 
 <p align="center">
