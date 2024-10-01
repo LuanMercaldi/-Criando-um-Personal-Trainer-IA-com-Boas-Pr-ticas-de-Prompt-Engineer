@@ -25,7 +25,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
-- [🛠️ Regras de negócio](#️-regras-de-negócio)
+- [💡 Regras de negócio](#-Como-Funciona)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
