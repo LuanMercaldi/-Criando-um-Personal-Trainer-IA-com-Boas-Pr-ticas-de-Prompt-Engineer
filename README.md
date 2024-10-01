@@ -99,11 +99,11 @@ A Segunda regra envolve a escolha do tipo de exercício preferido. Aqui estão a
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Treinos com movimentos naturais, que trabalham o corpo todo de forma equilibrada.                                |
+| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Você curte aparelhos de academia? Então essa é a opção ideal.                                          |
+| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Se você prefere treinar com halteres e barras, essa é a escolha. |
+| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Gosta de correr, pedalar ou fazer exercícios de resistência? Cardio é para você!                     |
+| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Quer treinos curtos e intensos para queimar gordura? O HIIT vai te desafiar! 🔥                                      |
 
 ---
 
@@ -117,9 +117,9 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
-- **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
-- **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
-- **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
+- **Full Body**: O bot vai sugerir um treino Full Body, ou seja, para o corpo inteiro em uma única sessão.
+- **ABC**: Você vai receber um treino ABC, que divide os grupos musculares em três dias.
+- **ABCDE**: Aqui o treino é mais avançado, com um plano ABCDE, onde cada dia tem um foco específico.
 
 ---
 
