@@ -26,6 +26,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [💡 Regras de negócio](#-Como-Funciona)
+- [🔄 Como Atualizar as Preferências](#-Como-Atualizar-as-Preferências)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
