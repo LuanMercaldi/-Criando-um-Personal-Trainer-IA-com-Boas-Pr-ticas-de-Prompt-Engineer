@@ -29,7 +29,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [🔄 Como Atualizar as Preferências?](#-Como-Atualizar-as-Preferências)
 - [📊 Benefícios](#-Benefícios)
 - [📸 Exemplos Visuais](#-Exemplos-Visuais)
-- [⚠️ Procure um Profissional Qualificado](#procure-um-profissional-qualificado)
+- [⚠ Procure um Profissional Qualificado!](#-procure-um-profissional-qualificado)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [👨‍💻 Expert](#-Expert)
 
