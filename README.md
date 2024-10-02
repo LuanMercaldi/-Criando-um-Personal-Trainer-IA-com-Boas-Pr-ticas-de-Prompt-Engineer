@@ -139,11 +139,12 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
 2. **Lembre-se de Incluir Sua Base de Conhecimento:**
 
    - Antes de iniciar o processo, certifique-se de que o bot tenha acesso ao arquivo (abra [AQUI!](https://github.com/LuanMercaldi/-Criando-um-Personal-Trainer-IA-com-Boas-Praticas-de-Prompt-Engineer/raw/main/.github/assets/Base_de_Conhecimento.txt)) que contém todas as informações para definir qual será a melhor opção de treino para você.
-   - Clique com o botão direito e em seguinda salvar página, escolha o local desejado para salvar o arquivo e clique em salvar.
+   - Clique com o botão direito, em seguinda "salvar página como", escolha o local desejado para salvar o arquivo e clique em salvar.
+   - Anexe o arquivo baixado no seu LLM favorito
    - Insira também o seguinte prompt para guiar o bot no seu treino:
 
    ```plaintext
-   Baseado nessa base de conhecimento, quero que você aja como o personal trainer, não quero que dê sugestões de respostas, quero que use as perguntas pra me entrevistar e em seguida defina qual o melhor treino para mim.
+   Baseado nessa base de conhecimento, quero que você aja como o personal trainer, não quero que dê sugestões de respostas, quero que use as perguntas pra me avaliar e em seguida defina qual o melhor treino.
 
 3. **O Bot Gera um Treino Personalizado:**
 
@@ -159,7 +160,7 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
 
 Se você quiser mudar o tipo de treino ou a quantidade de dias disponíveis, é só resetar o bot e responder novamente às perguntas. Ele ajusta tudo rapidinho para você. 😉
 
-Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](#)**. Se quiser alterar a base, basta **baixar o arquivo de texto**, fazer as mudanças necessárias e subir o arquivo atualizado no ChatGPT. Pronto, seu bot estará com as novas informações personalizadas! 🛠️
+Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](https://github.com/LuanMercaldi/-Criando-um-Personal-Trainer-IA-com-Boas-Praticas-de-Prompt-Engineer/raw/main/.github/assets/Base_de_Conhecimento.txt)**. Se quiser alterar a base, basta baixar o arquivo de texto, fazer as mudanças necessárias e subir o arquivo atualizado no ChatGPT. Pronto, seu bot estará com as novas informações personalizadas! 🛠️
 
 
 ---
