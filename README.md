@@ -198,7 +198,7 @@ Aqui está um exemplo de como você verá as perguntas na interface do bot:
 
 ---
 
-## ⚠️ Procure um Profissional Qualificado!
+## ⚠️ Importante: Procure um Profissional Qualificado!
 
 Embora o **Personal Trainer Virtual** ofereça planos de treino personalizados, ele não substitui a orientação de um profissional qualificado. Cada pessoa tem necessidades e limitações específicas que devem ser acompanhadas por um especialista. 💡
 
