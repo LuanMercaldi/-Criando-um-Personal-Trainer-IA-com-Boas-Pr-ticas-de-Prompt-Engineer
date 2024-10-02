@@ -177,8 +177,20 @@ Para entender como o bot toma decisões, consulte a **[Base de Conhecimento](htt
 
 Aqui está um exemplo de como você verá as perguntas na interface do bot:
 
-![Exemplo de Pergunta - Biotipo Corporal](https://via.placeholder.com/300x150)  
+![image](https://github.com/user-attachments/assets/b51e977a-5f55-4d35-b2c9-7500a9ccb491)
+
+
 *Na tela acima, você pode escolher o seu biotipo corporal.*
+
+![image](https://github.com/user-attachments/assets/f3b66a4d-b4f0-4722-b7f2-b1b1166fc734)
+
+*Nessa tela, você pode selecionar o seu exercício favorito.*
+
+![image](https://github.com/user-attachments/assets/cb766e98-9a79-41bd-8971-48d78dc18cd9)
+
+*Aqui, você pode definir quantos dias na semana pode treinar.*
+
+
 
 ---
 
