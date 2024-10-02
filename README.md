@@ -190,6 +190,11 @@ Aqui está um exemplo de como você verá as perguntas na interface do bot:
 
 *Aqui, você pode definir quantos dias na semana pode treinar.*
 
+![image](https://github.com/user-attachments/assets/4911d39f-1ff8-411b-bc82-1ed9bc065377)
+
+
+*Então o BOT define o melhor treino pra você.*
+
 
 
 ---
