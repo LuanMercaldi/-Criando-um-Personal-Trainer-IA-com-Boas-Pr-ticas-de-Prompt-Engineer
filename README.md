@@ -29,7 +29,7 @@ Bem-vindo ao **Personal Trainer Virtual!** Esse bot foi desenvolvido como parte 
 - [🔄 Como Atualizar as Preferências?](#-Como-Atualizar-as-Preferências)
 - [📊 Benefícios](#-Benefícios)
 - [📸 Exemplos Visuais](#-Exemplos-Visuais)
-- [⚠️ Importante: Procure um Profissional Qualificado!](#-Importante-Procure-um-Profissional-Qualificado!)
+- [⚠️ Procure um Profissional Qualificado!](#-Procure-um-Profissional-Qualificado!)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [👨‍💻 Expert](#-Expert)
 
@@ -198,7 +198,7 @@ Aqui está um exemplo de como você verá as perguntas na interface do bot:
 
 ---
 
-## ⚠️ Importante: Procure um Profissional Qualificado!
+## ⚠️ Procure um Profissional Qualificado!
 
 Embora o **Personal Trainer Virtual** ofereça planos de treino personalizados, ele não substitui a orientação de um profissional qualificado. Cada pessoa tem necessidades e limitações específicas que devem ser acompanhadas por um especialista. 💡
 
