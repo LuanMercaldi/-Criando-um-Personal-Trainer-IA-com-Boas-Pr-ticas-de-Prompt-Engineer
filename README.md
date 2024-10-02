@@ -129,16 +129,27 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
 ## 💡 Como Funciona?
 
 1. **Você Responde Algumas Perguntas:**
+
    - O bot vai perguntar sobre o seu tipo de corpo, o tipo de treino que você prefere e quantos dias você tem disponível para treinar.
    - Exemplo de perguntas:
      - Qual é o seu biotipo corporal?
      - Você prefere treinar com pesos livres, máquinas, ou prefere cardio?
      - Quantos dias por semana você pode treinar?
+    
+2. **Lembre-se de Incluir Sua Base de Conhecimento:**
 
-2. **O Bot Gera um Treino Personalizado:**
+   - Antes de iniciar o processo, certifique-se de que o bot tenha acesso ao [arquivo](****) que contém todas as informações para definir qual será a melhor opção de treino para você.
+   - Insira também o seguinte prompt para guiar o bot no seu treino:
+
+   ```plaintext
+   Baseado nessa base de conhecimento, quero que você aja como o personal trainer, não quero que dê sugestões de respostas, quero que use as perguntas pra me entrevistar e em seguida defina qual o melhor treino para mim.
+
+3. **O Bot Gera um Treino Personalizado:**
+
    - Com base nas suas respostas, o bot monta um plano de treino, com dicas sobre séries, repetições e intensidade. Tudo feito sob medida! 🎯
 
-3. **Você Treina e Acompanha seu Progresso:**
+5. **Você Treina e Acompanha seu Progresso:**
+
    - Agora é só seguir o plano, marcar os dias de treino, e ver os resultados! 🔥
 
 ---
