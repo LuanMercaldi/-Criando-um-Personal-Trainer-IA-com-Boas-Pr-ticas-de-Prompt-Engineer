@@ -138,7 +138,7 @@ A Terceira regra é determinar quantos dias por semana o usuário tem disponíve
     
 2. **Lembre-se de Incluir Sua Base de Conhecimento:**
 
-   - Antes de iniciar o processo, certifique-se de que o bot tenha acesso ao arquivo (Download [AQUI!](".github/assets/Base_de_Conhecimento.txt")) que contém todas as informações para definir qual será a melhor opção de treino para você.
+   - Antes de iniciar o processo, certifique-se de que o bot tenha acesso ao arquivo (Download [AQUI!](https://github.com/LuanMercaldi/-Criando-um-Personal-Trainer-IA-com-Boas-Praticas-de-Prompt-Engineer/raw/main/.github/assets/Base_de_Conhecimento.txt)) que contém todas as informações para definir qual será a melhor opção de treino para você.
    - Insira também o seguinte prompt para guiar o bot no seu treino:
 
    ```plaintext
